@@ -1,0 +1,10 @@
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\bin\Debug\stock-quote-alert.exe.config
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\bin\Debug\stock-quote-alert.exe
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\bin\Debug\stock-quote-alert.pdb
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\bin\Debug\WebDriver.dll
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\bin\Debug\WebDriver.xml
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\obj\Debug\stock-quote-alert.csproj.AssemblyReference.cache
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\obj\Debug\stock-quote-alert.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\obj\Debug\stock-quote-alert.csproj.CopyComplete
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\obj\Debug\stock-quote-alert.exe
+C:\Users\Luiz Pereira\source\repos\stock-quote-alert\stock-quote-alert\obj\Debug\stock-quote-alert.pdb
